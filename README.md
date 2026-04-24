@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dermavision Backend - Skin Disease Analysis API
 
 Production-ready FastAPI backend for AI-powered skin disease detection and analysis.
@@ -409,3 +410,6 @@ Interactive docs available when running:
 ## License
 
 [Your License Here]
+=======
+# DermaAi-back
+>>>>>>> 95c8b15ffa8150faa9a3fea8d1d20a6c0141756b
